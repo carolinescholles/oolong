@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Moda Circular</title>
+    <link>https://carolinescholles.github.io/oolong/tags/</link>
+    <description>Recent content in Tags on Moda Circular</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 09 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://carolinescholles.github.io/oolong/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>brechó</title>
+      <link>https://carolinescholles.github.io/oolong/tags/brech%C3%B3/</link>
+      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://carolinescholles.github.io/oolong/tags/brech%C3%B3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>moda circular</title>
+      <link>https://carolinescholles.github.io/oolong/tags/moda-circular/</link>
+      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://carolinescholles.github.io/oolong/tags/moda-circular/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
